@@ -1,0 +1,7 @@
+allprojects {
+    group 'com.github.xuqplus'
+    version '0.0.2-SNAPSHOT'
+}
+
+subprojects {
+}
